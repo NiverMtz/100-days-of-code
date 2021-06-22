@@ -1,13 +1,13 @@
 # 100 días de código - diario
 
-### Día 0: 30 de febrero de 2016 (ejemplo 1)
+### Día 0: 21 de junio de 2021
 
 ##### (elimine o comente)
 
-**Progreso de hoy**: Arreglé CSS y trabajé en funciones de canvas por el app.
+**Progreso de hoy**: Hice mi primera apliación en React
 
-**Reflexiones:** Trabajando con el CSS fue una prueba pero, en general, siento que estoy progresando y mejorando lentamente. Canvas, todavía es nuevo para mi pero logré descubrir algunas funcionalidades básicas.  
-**Enlace a mi trabajo:** [Calculadora App](http://www.example.com)
+**Reflexiones:** Para trabajar con React se necesitan buenas bases en HTML, CSS y JavaScript. Luego entender muy bien sobre funciones anónimas o  arrow functions. Un tema muy importante de este FrameWork es entender el concepto de Componentes.
+**Enlace a mi trabajo:** [Código sin deploy](https://github.com/NiverMtz/React-FireBase-Webinar)
 
 ### Día 0: 30 de febrero de 2016 (ejemplo 1)
 
