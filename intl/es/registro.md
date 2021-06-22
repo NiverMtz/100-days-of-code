@@ -2,8 +2,6 @@
 
 ### Día 0: 21 de junio de 2021
 
-##### (elimine o comente)
-
 **Progreso de hoy**: Hice mi primera apliación en React
 
 **Reflexiones:** Para trabajar con React se necesitan buenas bases en HTML, CSS y JavaScript. Luego entender muy bien sobre funciones anónimas o  arrow functions. Un tema muy importante de este FrameWork es entender el concepto de Componentes.
