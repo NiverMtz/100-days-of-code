@@ -9,3 +9,7 @@ El diario de mi reto #100DaysOfCode. Empecé el [21 de junio, lunes, 2021]
 Empecé con un curso en Udemy, para trabajar con React e hice mi primera aplicación en React.
 
 ### R1D2
+
+Sigo con el curso de React + Firebase. El objetivo es desarrollar una aplicación básica de tipo CRUD.
+
+### R1D3
