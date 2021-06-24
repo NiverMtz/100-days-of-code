@@ -13,3 +13,7 @@ Empecé con un curso en Udemy, para trabajar con React e hice mi primera aplicac
 Sigo con el curso de React + Firebase. El objetivo es desarrollar una aplicación básica de tipo CRUD.
 
 ### R1D3
+
+Hice el deploy de mi aplicación en React y terminé de maquetar una landing page que tenía pendiente.
+
+### R1D4
