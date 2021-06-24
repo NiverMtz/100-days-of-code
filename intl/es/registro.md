@@ -12,7 +12,14 @@
 **Progreso de hoy**: Desarrollé una app básica con React de tipo CRUD.
 
 **Reflexiones:** El modelo de plicaciones CRUD ya lo conocía, mas es necesario entender que en este caso no se hicieron operaciones directamente con bases de datos (DB), sino que se modelo el sistema mediante arreglos para verificar como funciona este tipo de aplicaciones en React.  
-**Enlace a mi trabajo:** [React-App-Basic-Type-CRUD](http://www.example.com)
+**Enlace a mi trabajo:** [React-App-Basic-Type-CRUD](nivermtz.github.io/app-basic-crud/)
+
+### Día 2: 23 de junio de 2021
+
+**Progreso de hoy**: Corregí el deploy de mi app en React y maquetación de un página web.
+
+**Reflexiones:** Hacey el deploy dentro del mismo GitHub pages, me permite tener algunos de mis proyectos hosteados, pero tengo que ir pensando en comprar un dominio para probar cuando tenga que ofrecer mis servicios o hacerlo para un proyecto más real o complejo.
+**Enlace a mi trabajo:** [React-App-Basic-Type-CRUD](nivermtz.github.io/app-basic-crud/)
 
 ### día 1: 27 de junio, 2016
 
