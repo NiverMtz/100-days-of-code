@@ -21,6 +21,13 @@
 **Reflexiones:** Hacey el deploy dentro del mismo GitHub pages, me permite tener algunos de mis proyectos hosteados, pero tengo que ir pensando en comprar un dominio para probar cuando tenga que ofrecer mis servicios o hacerlo para un proyecto más real o complejo.
 **Enlace a mi trabajo:** [React-App-Basic-Type-CRUD](nivermtz.github.io/app-basic-crud/)
 
+### Día 3: 24 de junio de 2021
+
+**Progreso de hoy**: Hoy comencé un proyecto creativo, trata del clásico juego de Ajedrez.
+
+**Reflexiones:** Empecé un proyecto creactivo, con la intención de desarrollar esto, cuando quiera practicar el css y el html, tuve algunas complicaciones para cargar los iconos con los que represento las piezas por ahora y con el tamaño de las celdas, dado que lo implemente como un objeto de tipo table, no estoy seguro si pueda partir de esta maqueta para agregar lo demás o cuando domine mejor algún FW, ya vaya corrigiendo lo que hice.
+**Enlace a mi trabajo:** [Chess Board](https://codepen.io/nivermtz/pen/eYvqprv)
+
 ### día 1: 27 de junio, 2016
 
 **Progreso de hoy**: He completado muchos ejercicios en FreeCodeCamp.
