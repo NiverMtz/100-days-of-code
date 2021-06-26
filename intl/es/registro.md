@@ -28,6 +28,16 @@
 **Reflexiones:** Empecé un proyecto creactivo, con la intención de desarrollar esto, cuando quiera practicar el css y el html, tuve algunas complicaciones para cargar los iconos con los que represento las piezas por ahora y con el tamaño de las celdas, dado que lo implemente como un objeto de tipo table, no estoy seguro si pueda partir de esta maqueta para agregar lo demás o cuando domine mejor algún FW, ya vaya corrigiendo lo que hice.
 **Enlace a mi trabajo:** [Chess Board](https://codepen.io/nivermtz/pen/eYvqprv)
 
+### Día 3: 24 de junio de 2021
+
+**Progreso de hoy**: Hoy practiqué el routing con React y la consulta a la API jsonplaceholder.
+
+**Reflexiones:** Realizar un routeo en React requiere de ciertos componentes que vamos a implementar con la dependecia de react-routing-dom, así que luego incluimos eso componentes en nuestro main, importante notar que para la página base se utiliza el atributo "exact" dado que con eso podemos navegar entre las distintas páginas.
+Info sobre esto, en: [How to Deploy a Routed React App to GitHub Pages](https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/)
+
+Por otra parte también hice la consulta a la API de jsonplaceholder para practicar ese tipo de consulta.
+[jsonplaceholder](https://jsonplaceholder.typicode.com/)
+
 ### día 1: 27 de junio, 2016
 
 **Progreso de hoy**: He completado muchos ejercicios en FreeCodeCamp.
