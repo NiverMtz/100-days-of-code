@@ -22,3 +22,7 @@ Hoy probé con algo diferente, hice el diseño de un tablero de ajedrez, espero 
 proyecto como algo creativo para hacer cuando esté aburrido o estresado.
 
 ### R1D4
+
+Hoy sólo he practicado el routing con React, además hice una consulta de la APi jsonplaceholder.com para practicar.
+
+### R1D5
