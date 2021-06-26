@@ -28,7 +28,7 @@
 **Reflexiones:** Empecé un proyecto creactivo, con la intención de desarrollar esto, cuando quiera practicar el css y el html, tuve algunas complicaciones para cargar los iconos con los que represento las piezas por ahora y con el tamaño de las celdas, dado que lo implemente como un objeto de tipo table, no estoy seguro si pueda partir de esta maqueta para agregar lo demás o cuando domine mejor algún FW, ya vaya corrigiendo lo que hice.
 **Enlace a mi trabajo:** [Chess Board](https://codepen.io/nivermtz/pen/eYvqprv)
 
-### Día 3: 24 de junio de 2021
+### Día 4: 25 de junio de 2021
 
 **Progreso de hoy**: Hoy practiqué el routing con React y la consulta a la API jsonplaceholder.
 
@@ -37,13 +37,3 @@ Info sobre esto, en: [How to Deploy a Routed React App to GitHub Pages](https://
 
 Por otra parte también hice la consulta a la API de jsonplaceholder para practicar ese tipo de consulta.
 [jsonplaceholder](https://jsonplaceholder.typicode.com/)
-
-### día 1: 27 de junio, 2016
-
-**Progreso de hoy**: He completado muchos ejercicios en FreeCodeCamp.
-
-**Reflexiones** Recientemente comencé a programar y es una gran sensación cuando finalmente resuelvo un desafío de algoritmo después de muchos intentos y horas.  
-**Enlace(s) a mi trabajo**
-
-1.  [Descubra la palabra más larga en una cadena de caracteres](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2.  [Poner título en mayúsculas en una oración](https://www.freecodecamp.com/challenges/title-case-a-sentence)
