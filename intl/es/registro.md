@@ -37,3 +37,10 @@ Info sobre esto, en: [How to Deploy a Routed React App to GitHub Pages](https://
 
 Por otra parte también hice la consulta a la API de jsonplaceholder para practicar ese tipo de consulta.
 [jsonplaceholder](https://jsonplaceholder.typicode.com/)
+
+### Día 5: 29 de junio de 2021
+
+**Progreso de hoy**: Implementación de una API REST con NodeJS.
+
+**Reflexiones:** Estoy desarrollando este ejercicio de contruir una API REST con NodeJS para comprender mejor como es que funciona esa parte de una sitio web, para entender mejor la comunicación entre el cliente y el servidor. Por cuestiones de practicidad, se simula la DB con un archivo JSON, pero consideramos que podemos ralizar el mismo tipo de procedimientos de GET, POST, PUSH y DELETE.
+Info sobre esto, en: [Video tutorial para realizar este ejercicio](https://www.youtube.com/watch?v=bK3AJfs7qNY&t=2599s)
