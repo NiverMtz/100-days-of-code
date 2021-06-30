@@ -25,4 +25,8 @@ proyecto como algo creativo para hacer cuando esté aburrido o estresado.
 
 Hoy sólo he practicado el routing con React, además hice una consulta de la APi jsonplaceholder.com para practicar.
 
-### R1D5
+### R2D5
+
+Estoy realizando una API REST con NodeJS, que sirva para extraer info de una BD simulada en este caso por un JSON.
+
+### R2D6
