@@ -30,3 +30,5 @@ Hoy sólo he practicado el routing con React, además hice una consulta de la AP
 Estoy realizando una API REST con NodeJS, que sirva para extraer info de una BD simulada en este caso por un JSON.
 
 ### R2D6
+
+Estoy realizando una app de autenticación con react y firebase, pero tengo problemas para integrar los servicios de firebase. En eso andamos.
