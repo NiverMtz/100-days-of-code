@@ -44,3 +44,9 @@ Por otra parte también hice la consulta a la API de jsonplaceholder para practi
 
 **Reflexiones:** Estoy desarrollando este ejercicio de contruir una API REST con NodeJS para comprender mejor como es que funciona esa parte de una sitio web, para entender mejor la comunicación entre el cliente y el servidor. Por cuestiones de practicidad, se simula la DB con un archivo JSON, pero consideramos que podemos ralizar el mismo tipo de procedimientos de GET, POST, PUSH y DELETE.
 Info sobre esto, en: [Video tutorial para realizar este ejercicio](https://www.youtube.com/watch?v=bK3AJfs7qNY&t=2599s)
+
+### Día 6: 30 de junio de 2021
+
+**Progreso de hoy**: Implementación de una App de Autenticación con React + Firebase.
+
+**Reflexiones:** Estoy desarrollando una app con React+ + Firebase, que sirva para autenticar a los usuarios en un sitio web, estoy aplicando todo lo que he visto en el curso sobre React, Bootstrap, etc. Sólo que la parte de integrar los servicios de firebase no me está quedando del todo, pero en eso andamos.
