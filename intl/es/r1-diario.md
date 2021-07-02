@@ -32,3 +32,7 @@ Estoy realizando una API REST con NodeJS, que sirva para extraer info de una BD 
 ### R2D6
 
 Estoy realizando una app de autenticación con react y firebase, pero tengo problemas para integrar los servicios de firebase. En eso andamos.
+
+### R3D7
+
+Terminé el curso de React + Firebase, con una aplicación de lista de contactos. Por otra parte estoy pasando mi portafolio a React.
