@@ -50,3 +50,9 @@ Info sobre esto, en: [Video tutorial para realizar este ejercicio](https://www.y
 **Progreso de hoy**: Implementación de una App de Autenticación con React + Firebase.
 
 **Reflexiones:** Estoy desarrollando una app con React+ + Firebase, que sirva para autenticar a los usuarios en un sitio web, estoy aplicando todo lo que he visto en el curso sobre React, Bootstrap, etc. Sólo que la parte de integrar los servicios de firebase no me está quedando del todo, pero en eso andamos.
+
+### Día 7: 02 de junio de 2021
+
+**Progreso de hoy**: Implementación de una App de Autenticación con React + Firestore e Implementar mi portafolio en React.
+
+**Reflexiones:** Terminé un curso esencial de React + Firebase, la última aplicación desarrollada fue una tipo to-do, para registrar contactos. Por otra parte, estoy pasando mi protafolio que sólo estaba en HTML y CSS, a React pero hice una rama para ello y creo que hacerlo de esa manera no me está funcionando.
