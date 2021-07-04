@@ -36,3 +36,6 @@ Estoy realizando una app de autenticación con react y firebase, pero tengo prob
 ### R3D7
 
 Terminé el curso de React + Firebase, con una aplicación de lista de contactos. Por otra parte estoy pasando mi portafolio a React.
+
+### R3D8
+Estoy maquetando un sitio web tipo landing page, además hoy aprendí algo de blockchain. Y me inscribí al hackathon de Talent Land.
