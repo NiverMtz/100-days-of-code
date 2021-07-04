@@ -56,3 +56,8 @@ Info sobre esto, en: [Video tutorial para realizar este ejercicio](https://www.y
 **Progreso de hoy**: Implementación de una App de Autenticación con React + Firestore e Implementar mi portafolio en React.
 
 **Reflexiones:** Terminé un curso esencial de React + Firebase, la última aplicación desarrollada fue una tipo to-do, para registrar contactos. Por otra parte, estoy pasando mi protafolio que sólo estaba en HTML y CSS, a React pero hice una rama para ello y creo que hacerlo de esa manera no me está funcionando.
+
+### Día 8: 03 de junio de 2021
+**Progreso de hoy**: Maqueta de una sitio para servicios de freelance (sitio ficticio), además aprendí un poco de blockchain y me inscribí al Talent Hackathon.
+
+**Reflexiones:** Estoy programando mucho más y gestionando mis actividades encaminadas a seguir en este rubro del desarrollo de software.
